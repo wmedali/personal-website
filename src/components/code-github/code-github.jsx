@@ -18,14 +18,14 @@ class CodeGithubComponent extends Component {
                 <Card>
                   <CardHeader
                     subtitle="Github Repository"
-                    title="wmedali/personal-portfolio"
+                    title="wmedali/personal-website"
                     avatar="github.png"
                   />
                 <CardText>
                         I often contribute to open source projects or publish some helpful examples about test automation.
                     </CardText>
                     <CardActions>
-                        <FlatButton label="View on github" href="https://github.com/wmedali" target="_blank"/>
+                        <FlatButton label="View on github" href="https://github.com/wmedali/personal-website" target="_blank"/>
                     </CardActions>
                 </Card>
             </div>
