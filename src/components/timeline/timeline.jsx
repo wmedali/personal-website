@@ -108,7 +108,7 @@ class TimelineComponent extends Component {
               showExpandableButton={true}
             />
             <CardText expandable={true}>
-              July 2017 - March 2019. Tester in Biometric acquisition and Identity cards production software.
+              July 2016 - March 2019. Tester in Biometric acquisition and Identity cards production software.
               <br />
               <br />
               <div className="timeline-entries">
